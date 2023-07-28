@@ -120,7 +120,7 @@ Friday is leading with an average trip of 13.28 followed by Saturday and Sunday 
 
 8. Which station has the highest number of trips ending at it?
 
-Groove St PATH has the hihest number of trips ending at its station with 2743 trips and it turns out to be the commonest station.
+Groove St PATH has the highest number of trips ending at its station with 2743 trips and it turns out to be the commonest station.
 
 ![](Top_10_Most_End_Station.jpg)
 
