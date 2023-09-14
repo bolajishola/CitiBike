@@ -12,9 +12,19 @@ This project is to analyze and derive insights to answer crucial questions and h
 
 ---
 
+## Table of Content
+  - [Problem Statement](#problem-statement)
+  - [Data Sourcing](#data-sourcing)
+  - [Skills/Concepts Demonstrated](#skills-demonstrated)
+  - [Modeling](#modeling)
+  - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+  - [Analysis & Visualization](#analysis-and-visualization)
+  - [Conclusion and Recommendation](#conclusion-and-recommendation)
+  
+
 ## Problem Statement
 
-An international company in New York City wishes to know how far they have gone in 2017 between January and March. The stakeholders hereby entrusted me with carrying out a quick analysis and report to enable them to make a decision to improve sales. After understanding the problem, the questions stated below need answers which cover various aspects of the dataset, including station usage, trip duration, user demographics, time-based trends, and environmental factors. The questions are as follows:
+An international company in New York City wishes to know how far they have gone in 2017 between January and March. The stakeholders hereby entrusted me with carrying out a quick analysis and dashboard to enable them make a decision to improve sales. After understanding the business problem, the questions below need answers which covers various aspects of the dataset, including station usage, trip duration, user demographics, time-based trends, and environmental factors. The questions are as follows:
 
 1. Which station has the highest number of trips originating from it?
 2. Which month had the highest number of bike trips?
@@ -32,7 +42,7 @@ It contains 1 table with 17 Columns and 20401 Rows.
 
 ---
 
-## Skills/Concepts Demonstrated
+## Skills Demonstrated
 
 The following Excel features were incorporated:
 - Filtering
@@ -42,19 +52,20 @@ The following Excel features were incorporated:
 - Aggregate Function
 - Exploratory Data Analysis
 
-## Modelling
+## Modeling
 
-There was no modelling because the dataset contain one table.
+There was no modeling because the dataset contain one table.
 
 ---
 
 ## Data Cleaning and Transformation
 
-The dataset went through rigorous checking and cleaning, a view of the raw dataset is shown below:
+Inspection and cleaning of the dataset was carried out, a view of the raw dataset is shown below:
 
 ![](RawData.jpg)
 
-The first step was to Filter the data, and remove the blank row and duplicates, a total of 1950 duplicate was discovered and removed after proper consultations:
+The first step was to Filter the data, remove the blank rows and duplicates. 
+Total of 1950 duplicate was discovered and removed after proper consultations with the appropiate stakeholders:
 
 Filtering                               | Removing duplicate
 :--------------------------------------:|:----------------------------------:
@@ -68,13 +79,13 @@ A column was added to the dataset to enable us to calculate the Average Trip Dur
 
 ![](AverageTripDurationColumn.jpg)
 
-Finally, we have a cleaned dataset that will enable us to derive insight and profer recommendations:
+Finally, we have a cleaned dataset aligned to our business question that will enable us to derive insight and profer solutions:
 
 ![](CleanedData.jpg)
 
 ---
 
-## Analysis & Visualization
+## Analysis and Visualization
 
 1. Which station has the highest number of trips originating from it?
 
@@ -130,7 +141,7 @@ This is a preview of the Dashboard
 
 ---
 
-## Conclusion and Recommendation:
+## Conclusion and Recommendation
 
 1. Target your marketing efforts to the people within the age range of 35-44, who are most likely to bike. You can also target people who live in areas with a lot of bike lanes, or who work in places that are bike-friendly.
 2. Offer discounts or promotions for people who bike on Friday. 
