@@ -15,10 +15,10 @@ This project is to analyze and derive insights to answer crucial questions and h
 ## Table of Content
   - [Problem Statement](#problem-statement)
   - [Data Sourcing](#data-sourcing)
-  - [Skills/Concepts Demonstrated](#skills-demonstrated)
+  - [Skills Demonstrated](#skills-demonstrated)
   - [Modeling](#modeling)
   - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
-  - [Analysis & Visualization](#analysis-and-visualization)
+  - [Analysis and Visualization](#analysis-and-visualization)
   - [Conclusion and Recommendation](#conclusion-and-recommendation)
   
 
